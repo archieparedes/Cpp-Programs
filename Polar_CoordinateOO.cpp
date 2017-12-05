@@ -1,7 +1,11 @@
 #include <iostream>
 #include "Pol_coord.h"
-
 using namespace std;
+/*
+Object oriented programming. 
+Pol_coord.h class file required to run program
+*/
+
 
 int main()
 {
